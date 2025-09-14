@@ -1,10 +1,24 @@
-- 👋 Hi, I’m @Vedang bhange
-- 👀 I’m interested in Web developement AI and ML
-- 🌱 I’m currently Studying MCA @ VIT,PUNE
-- 💞️ I’m looking to collaborate on various project related to AI and WEB Development
-- 📫 How to reach me ...
+👋 Hi, I’m Vedang Bhange
+🚀 Software Engineer | Full-Stack Developer | MCA @ VIT Pune
 
-<!---
-Vedabhange/Vedabhange is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👀 Interests
+>Web Development (React.js, .NET Core, TypeScript, SQL)
+>Artificial Intelligence & Machine Learning
+>System Design & Performance Optimization
+
+🌱 Currently
+>Working as a Software Product Engineer at HealthLevel India Pvt. Ltd.
+>Migrating large-scale systems from .NET Framework → .NET Core and Backbone.js → ReactJS
+>Exploring AI/ML applications in data-driven systems
+
+💡 Open To
+>Collaborating on AI + Web projects
+>Building tools around search optimization, document management, and scalable APIs
+
+📫 Reach Me
+
+>📧 bhangevedang@gmail.com
+>🔗 LinkedIn
+>🖥️ Portfolio / GitHub Projects
+
+⚡ Fun Fact: I love solving complex SQL queries, turning messy search problems into smart, scalable solutions 🚀
