@@ -18,7 +18,6 @@
 📫 Reach Me
 
 >📧 bhangevedang@gmail.com
->🔗 LinkedIn
->🖥️ Portfolio / GitHub Projects
+>🔗 LinkedIn : https://www.linkedin.com/in/vedang-bhange-532498138/ 
 
 ⚡ Fun Fact: I love solving complex SQL queries, turning messy search problems into smart, scalable solutions 🚀
